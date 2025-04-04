@@ -1,0 +1,24 @@
+hyena Habitat:
+Hy01; Nne; birth date: 2021-01-23; tan color; female; 70 pounds; from Friguia Park, Tunisia; arrived: 2024-06-14
+Hy02; Madoa; birth date: 2013-08-03; brown color; male; 150 pounds; from Friguia Park, Tunisia; arrived: 2014-05-21
+Hy03; Paddington; birth date: 2021-02-04; black color; male; 120 pounds; from Friguia Park, Tunisia; arrived: 2024-04-13
+Hy04; Jiba; birth date: 2017-01-20; black and tan striped color; female; 105 pounds; from Friguia Park, Tunisia; arrived: 2018-10-04
+
+bear Habitat:
+Be01; Rajah; birth date: 2018-02-16; brown color; male; 320 pounds; from Alaska Zoo, Alaska; arrived: 2019-08-06
+Be02; Smokey; birth date: 2000-01-10; black color; female; 425 pounds; from Woodland park Zoo, Washington ; arrived: 2024-03-07
+Be03; Tigger; birth date: 2021-08-05; black color; female; 355 pounds; from Woodland park Zoo, Washington ; arrived: 2023-07-13
+Be04; Bert; birth date: 2021-01-07; brown color; male; 405 pounds; from Alaska Zoo, Alaska; arrived: 2022-03-07
+
+tiger Habitat:
+Ti01; Cuddles; birth date: 2023-01-12; gold and tan stripes color; male; 270 pounds; from Dhaka, Bangladesh; arrived: 2024-10-13
+Ti02; Jiba; birth date: 2021-02-21; black stripes color; female; 400 pounds; from Dhaka, Bangladesh; arrived: 2023-11-11
+Ti03; Dave; birth date: 2007-08-21; gold and tan color; male; 300 pounds; from Bardia, Nepal; arrived: 2014-11-10
+Ti04; Jiba; birth date: 2022-01-11; black stripes color; female; 285 pounds; from Bardia, Nepal; arrived: 2023-07-08
+
+lion Habitat:
+Li01; Cuddles; birth date: 2019-02-11; tan color; female; 300 pounds; from Zanzibar, Tanzania; arrived: 2024-09-14
+Li02; Mufasa; birth date: 2013-11-22; dark tan color; female; 375 pounds; from KopeLion, Tanzania; arrived: 2023-01-05
+Li03; Nala; birth date: 2003-07-02; golden color; male; 450 pounds; from Zanzibar, Tanzania; arrived: 2016-05-02
+Li04; bear Names:; birth date: 2021-01-22; tan and brown color; female; 275 pounds; from KopeLion, Tanzania; arrived: 2023-02-01
+
